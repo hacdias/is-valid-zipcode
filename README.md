@@ -32,3 +32,5 @@ By default, the country is United States.
 ## License
 
 MIT © [Henrique Dias](http://henriquedias.com)
+
+[1]: https://www.npmjs.com/package/is-valid-zipcode
