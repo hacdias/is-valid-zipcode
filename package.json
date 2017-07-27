@@ -1,6 +1,6 @@
 {
   "name": "is-valid-zipcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if a zip/postal code is valid.",
   "license": "MIT",
   "repository": "hacdias/is-valid-zipcode",
