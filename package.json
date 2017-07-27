@@ -1,7 +1,7 @@
 {
   "name": "is-valid-zipcode",
-  "version": "1.0.0",
-  "description": "Check if a zip/postal code is valid",
+  "version": "1.0.1",
+  "description": "Check if a zip/postal code is valid.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
