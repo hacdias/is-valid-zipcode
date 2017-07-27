@@ -23,7 +23,7 @@ var isValidZipcode = require('is-valid-zipcode');
 isValidZipcode('2000-000', 'PT');
 // => true
 
-isAbsoluteUrl('7521785-952-520', 'PT');
+isValidZipcode('7521785-952-520', 'PT');
 //=> false
 ```
 
