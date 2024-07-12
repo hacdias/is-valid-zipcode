@@ -1,11 +1,13 @@
 # is-valid-zipcode
 
+> ⚠️ Package no longer maintained. I recommend using a more well-maintained package, such as [`postcode-validator`](https://www.npmjs.com/package/postcode-validator).
+
 [![Build](https://img.shields.io/travis/hacdias/is-valid-zipcode.svg?style=flat-square)][1]
 [![Latest Version](https://img.shields.io/npm/v/is-valid-zipcode.svg?style=flat-square)][1]
 [![Downloads per Month](https://img.shields.io/npm/dm/is-valid-zipcode.svg?style=flat-square)][1]
 [![License](https://img.shields.io/npm/l/is-valid-zipcode.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-> Check if a zip/postal code is valid
+Check if a zip/postal code is valid
 
 
 ## Install
